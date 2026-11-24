@@ -28,7 +28,7 @@ Candidates considered and rejected:
 The chosen line wins on the judge's own order: unmistakable incident
 (a 412-page bill), a concrete humiliation (print, scan, re-email a
 PDF), and the reversal landing on the lawmakers themselves (their
-bill makes mandatory the button they cannot find). At about 316
+bill makes mandatory the button they cannot find). At 313
 characters it uses nearly the full 320-character budget, so the line
 is judged on its words alone, with nothing padded in to fill the
 budget. No dollar amounts appear anywhere.
